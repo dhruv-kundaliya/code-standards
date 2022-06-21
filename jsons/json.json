@@ -1,0 +1,46 @@
+[
+    {
+        "name":{
+            "first":"Dhaval",
+            "last":"Gohel"
+        },
+        "email":"dj@gmail.com",
+        "dateOfBirth":"2008/03/09",
+        "customerId":1
+    },
+    {
+    "name":{
+        "first":"Jay",
+        "last":"ponda"
+    },
+    "email":"jay@gmail.com",
+    "dateOfBirth":"2002/03/09",
+    "customerId":2
+    },
+        {
+    "name":{
+        "first":"yash",
+        "last":"kavaa"
+    },
+    "email":"yash@gmail.com",
+    "dateOfBirth":"2010/03/09",
+    "customerId":3
+    },
+        {
+    "name":{
+        "first":"keval",
+        "last":"patel"
+    },
+    "email":"keval@gmail.com",
+    "dateOfBirth":"2003/03/09",
+    "customerId":4
+    },    {
+    "name":{
+        "first":"man",
+        "last":"thummer"
+    },
+    "email":"man@gmail.com",
+    "dateOfBirth":"2001/03/09",
+    "customerId":5
+    }
+]
